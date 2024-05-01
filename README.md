@@ -1,4 +1,4 @@
-# SysV-Script-for-wg-quick-Mullvad
+# SysV-Script-for-wg-quick
 
 This is a SysV script that enables a VPN Connection (ex:Mullvad) at boot.
 
